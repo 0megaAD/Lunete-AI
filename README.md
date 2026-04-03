@@ -2,7 +2,7 @@
 
 Lunete AI é uma inteligência artificial criada com o objetivo de ajudar pessoas que estão passando por momentos difíceis e precisam de alguém para conversar.
 
-O projeto foi pensado especialmente para quem não tem acesso fácil a apoio psicológico, seja por falta de tempo ou recursos. No entanto, é importante deixar claro que a Lunete não substitui psicólogos ou profissionais da área — ela atua apenas como uma companhia temporária para diálogo e suporte emocional leve.
+O projeto foi pensado especialmente para quem não tem acesso fácil a apoio psicológico, seja por falta de tempo ou recursos. No entanto, é importante deixar claro que a Lunete não substitui psicólogos ou profissionais da área, ela atua apenas como uma companhia temporária para diálogo e suporte emocional leve.
 
 Este projeto está em fase beta e foi desenvolvido com foco em baixo custo. Por isso, não utiliza servidores: todo o processamento acontece diretamente no dispositivo do usuário (computador ou celular), garantindo uma experiência acessível e independente.
 
