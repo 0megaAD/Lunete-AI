@@ -6,7 +6,7 @@ O projeto foi pensado especialmente para quem não tem acesso fácil a apoio psi
 
 Este projeto está em fase beta e foi desenvolvido com foco em baixo custo. Por isso, não utiliza servidores: todo o processamento acontece diretamente no dispositivo do usuário (computador ou celular), garantindo uma experiência acessível e independente.
 
-A Lunete AI também representa um projeto de exploração técnica e criativa, desenvolvido por 0megaAD, com o objetivo de testar limites, aprender novas tecnologias e transformar ideias em algo funcional.
+A Lunete AI também representa um projeto de exploração técnica e criativa, desenvolvido por __**0megaAD**__ , com o objetivo de testar limites, aprender novas tecnologias e transformar ideias em algo funcional.
 
 ⚠️ Aviso:
 Lunete AI não substitui acompanhamento psicológico profissional. Em casos mais sérios, procure ajuda especializada.
